@@ -1,0 +1,21 @@
+{
+  "name": "WailsSvelte",
+  "frontend:build": "npm run build",
+  "frontend:install": "npm install",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend/src",
+  "assetdir": "./",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "WailsSvelte",
+  "OutputType": "",
+  "Platform": "",
+  "author": {
+    "name": "Code-Ac",
+    "email": "76821666+Code-Ac@users.noreply.github.com"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:3000",
+  "appargs": ""
+}
